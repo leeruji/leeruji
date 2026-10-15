@@ -1,4 +1,4 @@
-### 안녕하세요, 루지입니다
+### 소개
 
 주니어 프로덕트 디자이너입니다. 지금은 [Digginn](https://github.com/Digginn)에서 프로덕트 디자인을 맡고 있습니다.
 화면을 그리는 데서 멈추지 않고 AI(Claude Code)와 함께 실제로 돌아가는 앱을 직접 고쳐 봅니다.
@@ -14,10 +14,10 @@
 ### 대표 작업
 
 **[Diggin](https://diggin-landing.vercel.app)**
-여러 쇼핑몰에 흩어진 관심 상품을 한곳에 모아 보는 아카이빙 앱입니다. [Digginn](https://github.com/Digginn) 팀에서 프로덕트 디자인을 맡고 있고 iOS 앱 출시를 준비하고 있습니다.
+여러 쇼핑몰에 흩어진 관심 상품을 한곳에 모아 보는 아카이빙 앱입니다. [Digginn](https://github.com/Digginn) 팀에서 프로덕트 디자인을 맡고 있고 iOS 앱 출시를 준비 중입니다.
 
 **[shisa-agent-ruji](https://github.com/leeruji/shisa-agent-ruji) — 남의 앱을 고쳐 본 기록**
-[cheo0y/shisa-agent](https://github.com/cheo0y/shisa-agent)의 데스크톱 AI 비서 앱을 원작자가 공개한 라이선스(MIT) 안에서 제가 쓰기 편하게 고친 개인 수정판입니다. 앱은 원작자의 작업이고 아래 표는 제가 바꾼 부분입니다.
+[cheo0y/shisa-agent](https://github.com/cheo0y/shisa-agent)의 데스크톱 AI 비서 앱을 원작자가 공개한 라이선스(MIT) 안에서 쓰기 편하게 고친 개인 수정판입니다. 앱은 원작자의 작업이고 아래 표는 수정판에서 바꾼 부분입니다.
 
 | 바꾼 것 | 내용 |
 |---|---|
