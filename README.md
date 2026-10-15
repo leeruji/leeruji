@@ -16,8 +16,8 @@
 **[Diggin](https://diggin-landing.vercel.app)**
 여러 쇼핑몰에 흩어진 관심 상품을 한곳에 모아 보는 아카이빙 앱입니다. [Digginn](https://github.com/Digginn) 팀에서 프로덕트 디자인을 맡고 있고 iOS 앱 출시를 준비 중입니다.
 
-**[shisa-agent-ruji](https://leeruji.github.io/posts/2026/10/15/shisa-chat-readability/) — 남의 앱을 고쳐 본 기록**
-[cheo0y/shisa-agent](https://github.com/cheo0y/shisa-agent)의 데스크톱 AI 비서 앱을 원작자가 공개한 라이선스(MIT) 안에서 쓰기 편하게 고친 개인 수정판입니다. 앱은 원작자의 작업이고 아래 표는 수정판에서 바꾼 부분입니다.
+**[시사(shisa-agent) UI 개선](https://leeruji.github.io/posts/2026/10/15/shisa-chat-readability/) — 오픈소스 앱 수정 실험**
+오픈소스 데스크톱 AI 비서 앱 [cheo0y/shisa-agent](https://github.com/cheo0y/shisa-agent)를 매일 쓰면서 불편했던 화면을 고친 개인 수정판입니다. 원작은 MIT 라이선스로 공개되어 있고 아래 표는 수정판에서 바꾼 부분입니다.
 
 | 바꾼 것 | 내용 |
 |---|---|
