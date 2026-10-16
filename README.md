@@ -27,9 +27,9 @@
 여러 쇼핑몰에 흩어진 관심 상품을 한곳에 모아 보는 아카이빙 앱입니다. [Digginn](https://github.com/Digginn) 팀에서 프로덕트 디자인을 맡고 있으며 iOS 앱 출시를 준비 중입니다.
 팀 결정 사항을 기능명세서와 피그마 화면에 반영하는 반복 작업은 AI 에이전트가 팀 규칙대로 처리하도록 설계했습니다. [AI 협업 워크플로우 사례 보기](https://leeruji.github.io/work/diggin-ai-workflow/)
 
-**[시사(shisa-agent) 개인 수정판](https://github.com/leeruji/shisa-ruji-mods) — 오픈소스 앱 수정 실험**
-오픈소스 데스크톱 AI 비서 앱 [cheo0y/shisa-agent](https://github.com/cheo0y/shisa-agent)를 매일 쓰면서 불편했던 화면을 고쳤습니다. 채팅 글 위계, 코드 복사 버튼, 개발 용어 칸처럼 무엇을 바꿀지는 직접 정하고 구현은 Claude Code와 함께 했습니다.
-[바꾼 부분 모음](https://github.com/leeruji/shisa-ruji-mods) · [채팅 가독성 개선기](https://leeruji.github.io/posts/2026/10/15/shisa-chat-readability/)
+**시사(shisa-agent) 개인 수정판 — 오픈소스 앱 기능 추가 실험**
+오픈소스 데스크톱 AI 비서 앱 [cheo0y/shisa-agent](https://github.com/cheo0y/shisa-agent)에 필요하지만 아직 없던 기능을 더했습니다. 코드 복사 버튼, 개발 용어 칸, 하루 시간표처럼 어떤 기능을 왜 넣을지는 직접 정하고 구현은 Claude Code와 함께했습니다.
+[채팅 가독성 개선기](https://leeruji.github.io/posts/2026/10/15/shisa-chat-readability/)
 
 **[Space Guardian](https://space-guardian-game.netlify.app) — AI 코딩 도구로 만든 레트로 슈팅 게임**
 『Do it! 바이브 코딩 + 안티그래비티』 스터디에서 Google Antigravity로 만든 브라우저 게임입니다. 기획·개발·디자이너 역할의 AI 에이전트에게 일을 나눠 맡기고 게임 그래픽은 나노 바나나로 만들었습니다.
